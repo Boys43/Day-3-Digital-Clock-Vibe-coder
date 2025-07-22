@@ -10,7 +10,7 @@
 
 ---
 
-![Preview](./screenshot.png)
+![Preview](./screenshot.jpg)
 
 ---
 
